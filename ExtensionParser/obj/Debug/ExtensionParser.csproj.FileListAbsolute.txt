@@ -1,0 +1,6 @@
+C:\Works\SWGit\ExtensionParser\ExtensionParser\bin\Debug\ExtensionParser.exe.config
+C:\Works\SWGit\ExtensionParser\ExtensionParser\bin\Debug\ExtensionParser.exe
+C:\Works\SWGit\ExtensionParser\ExtensionParser\bin\Debug\ExtensionParser.pdb
+C:\Works\SWGit\ExtensionParser\ExtensionParser\obj\Debug\ExtensionParser.csprojResolveAssemblyReference.cache
+C:\Works\SWGit\ExtensionParser\ExtensionParser\obj\Debug\ExtensionParser.exe
+C:\Works\SWGit\ExtensionParser\ExtensionParser\obj\Debug\ExtensionParser.pdb
